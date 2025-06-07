@@ -1,4 +1,4 @@
-# 🐳 Text  → 3D — Docker Collection
+# 🎮 Text  → 3D — Docker Collection
 
 GPU-ready Docker environments for state-of-the-art 3D generation / reconstruction:
 
