@@ -10,7 +10,7 @@ GPU-ready Docker environments for state-of-the-art 3D generation / reconstructio
 ---
 
 # Quick Start
-'''bash
+```bash
 # Clone with submodules
 git clone --recurse-submodules https://github.com/Text2VR/Dockerfiles.git
 cd Dockerfiles
@@ -31,4 +31,4 @@ docker run --gpus all -it --rm \
 # 1. Navigate to DreamScene directory
 # 2. Run training using your config:
 #    CUDA_VISIBLE_DEVICES=0 python main.py --object --config configs/objects/sample.yaml
-'''
+```
