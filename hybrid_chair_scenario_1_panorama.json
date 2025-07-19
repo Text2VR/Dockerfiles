@@ -1,0 +1,129 @@
+{
+  "objects": [
+    {
+      "description": "leather armchair",
+      "bbox": [
+        105,
+        174,
+        164,
+        310
+      ],
+      "confidence": 0.9051660299301147,
+      "mask_available": true,
+      "original_hint": {
+        "description": "leather armchair",
+        "center_pixel": [
+          153,
+          256
+        ],
+        "bbox": [
+          102,
+          205,
+          204,
+          307
+        ],
+        "confidence": 0.8
+      }
+    },
+    {
+      "description": "leather sofa",
+      "bbox": [
+        0,
+        112,
+        475,
+        316
+      ],
+      "confidence": 0.9473381042480469,
+      "mask_available": true,
+      "original_hint": {
+        "description": "leather sofa",
+        "center_pixel": [
+          307,
+          256
+        ],
+        "bbox": [
+          205,
+          205,
+          409,
+          307
+        ],
+        "confidence": 0.8
+      }
+    },
+    {
+      "description": "leather armchair",
+      "bbox": [
+        507,
+        194,
+        519,
+        288
+      ],
+      "confidence": 0.9129618406295776,
+      "mask_available": true,
+      "original_hint": {
+        "description": "leather armchair",
+        "center_pixel": [
+          512,
+          256
+        ],
+        "bbox": [
+          461,
+          205,
+          563,
+          307
+        ],
+        "confidence": 0.8
+      }
+    },
+    {
+      "description": "leather sofa",
+      "bbox": [
+        696,
+        172,
+        719,
+        268
+      ],
+      "confidence": 0.9630545377731323,
+      "mask_available": true,
+      "original_hint": {
+        "description": "leather sofa",
+        "center_pixel": [
+          716,
+          256
+        ],
+        "bbox": [
+          614,
+          205,
+          818,
+          307
+        ],
+        "confidence": 0.8
+      }
+    },
+    {
+      "description": "leather armchair",
+      "bbox": [
+        838,
+        156,
+        907,
+        314
+      ],
+      "confidence": 0.9748605489730835,
+      "mask_available": true,
+      "original_hint": {
+        "description": "leather armchair",
+        "center_pixel": [
+          870,
+          256
+        ],
+        "bbox": [
+          819,
+          205,
+          921,
+          307
+        ],
+        "confidence": 0.8
+      }
+    }
+  ]
+}

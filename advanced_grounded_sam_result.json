@@ -1,0 +1,99 @@
+{
+  "objects": [
+    {
+      "description": "couch",
+      "bbox": [
+        662,
+        268,
+        906,
+        401
+      ],
+      "confidence": 0.9839104413986206,
+      "detection_confidence": 0.9867002964019775,
+      "detection_model": "DETR",
+      "mask_available": true,
+      "original_box": [
+        691,
+        272,
+        904,
+        397
+      ]
+    },
+    {
+      "description": "chair",
+      "bbox": [
+        552,
+        260,
+        629,
+        319
+      ],
+      "confidence": 0.9828487634658813,
+      "detection_confidence": 0.9800488948822021,
+      "detection_model": "DETR",
+      "mask_available": true,
+      "original_box": [
+        548,
+        259,
+        624,
+        321
+      ]
+    },
+    {
+      "description": "couch",
+      "bbox": [
+        942,
+        279,
+        1023,
+        366
+      ],
+      "confidence": 0.9902513027191162,
+      "detection_confidence": 0.9741506576538086,
+      "detection_model": "DETR",
+      "mask_available": true,
+      "original_box": [
+        942,
+        273,
+        1023,
+        364
+      ]
+    },
+    {
+      "description": "chair",
+      "bbox": [
+        0,
+        274,
+        93,
+        365
+      ],
+      "confidence": 0.9814956188201904,
+      "detection_confidence": 0.9707460403442383,
+      "detection_model": "DETR",
+      "mask_available": true,
+      "original_box": [
+        0,
+        272,
+        91,
+        364
+      ]
+    },
+    {
+      "description": "chair",
+      "bbox": [
+        137,
+        282,
+        265,
+        385
+      ],
+      "confidence": 0.9875046014785767,
+      "detection_confidence": 0.9618417024612427,
+      "detection_model": "DETR",
+      "mask_available": true,
+      "original_box": [
+        129,
+        277,
+        266,
+        380
+      ]
+    }
+  ]
+}

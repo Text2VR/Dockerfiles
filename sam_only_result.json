@@ -1,0 +1,102 @@
+{
+  "objects": [
+    {
+      "point": [
+        100,
+        480
+      ],
+      "bbox": [
+        0,
+        334,
+        1023,
+        508
+      ],
+      "confidence": 1.0052169561386108,
+      "mask_available": true
+    },
+    {
+      "point": [
+        350,
+        470
+      ],
+      "bbox": [
+        0,
+        333,
+        1023,
+        508
+      ],
+      "confidence": 1.0062083005905151,
+      "mask_available": true
+    },
+    {
+      "point": [
+        600,
+        460
+      ],
+      "bbox": [
+        0,
+        334,
+        1023,
+        508
+      ],
+      "confidence": 1.0043083429336548,
+      "mask_available": true
+    },
+    {
+      "point": [
+        1000,
+        470
+      ],
+      "bbox": [
+        0,
+        333,
+        1023,
+        508
+      ],
+      "confidence": 0.9995459318161011,
+      "mask_available": true
+    },
+    {
+      "point": [
+        1350,
+        480
+      ],
+      "bbox": [
+        0,
+        133,
+        975,
+        507
+      ],
+      "confidence": 0.5069152116775513,
+      "mask_available": true
+    },
+    {
+      "point": [
+        1650,
+        470
+      ],
+      "bbox": [
+        0,
+        5,
+        1023,
+        381
+      ],
+      "confidence": 0.8408317565917969,
+      "mask_available": true
+    },
+    {
+      "point": [
+        1900,
+        480
+      ],
+      "bbox": [
+        0,
+        125,
+        1010,
+        509
+      ],
+      "confidence": 0.551283061504364,
+      "mask_available": true
+    }
+  ]
+}

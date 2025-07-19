@@ -1,0 +1,58 @@
+# 기존 내용
+*.pyc
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+*.ckpt
+*.pt
+*.safetensors
+*.DS_Store
+
+# 추가 권장 내용
+# Python
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch/ML 관련
+*.pth
+*.pkl
+*.model
+wandb/
+logs/
+checkpoints/
+experiments/
+
+# 데이터 파일
+*.npy
+*.npz
+data/
+datasets/
+
+# 환경 설정
+.env
+.envrc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
