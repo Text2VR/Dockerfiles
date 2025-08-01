@@ -1,0 +1,60 @@
+*.pyc
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+*.ckpt
+*.pt
+*.safetensors
+*.DS_Store
+GroundingDINO
+
+# Large model checkpoints and weights
+sam_checkpoints/
+pre_checkpoints/
+stitch_diffusion/pretrained_model/
+*.pth
+*.bin
+*.h5
+
+# Large binary files and viewers
+SIBR_viewers/
+viewer_windows/
+
+# Generated outputs and temporary files
+self_refinement/
+panorama_output/
+data/*/images/
+data/*/sparse/
+data/*.png
+data/*.jpg
+data/*.jpeg
+
+# Cache and build files
+__pycache__/
+*.egg-info/
+build/
+dist/
+.cache/
+
+# Backup and temporary files
+*.backup
+*.tmp
+*~
+.DS_Store
+
+# Large datasets and assets
+assets/large_files/
+*.zip
+*.tar.gz
+*.7z
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
